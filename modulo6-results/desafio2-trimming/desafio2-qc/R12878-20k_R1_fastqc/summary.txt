@@ -1,0 +1,12 @@
+PASS	Basic Statistics	R12878-20k_R1.fastq
+PASS	Per base sequence quality	R12878-20k_R1.fastq
+PASS	Per tile sequence quality	R12878-20k_R1.fastq
+PASS	Per sequence quality scores	R12878-20k_R1.fastq
+FAIL	Per base sequence content	R12878-20k_R1.fastq
+WARN	Per sequence GC content	R12878-20k_R1.fastq
+PASS	Per base N content	R12878-20k_R1.fastq
+FAIL	Sequence Length Distribution	R12878-20k_R1.fastq
+PASS	Sequence Duplication Levels	R12878-20k_R1.fastq
+WARN	Overrepresented sequences	R12878-20k_R1.fastq
+WARN	Adapter Content	R12878-20k_R1.fastq
+WARN	Kmer Content	R12878-20k_R1.fastq
